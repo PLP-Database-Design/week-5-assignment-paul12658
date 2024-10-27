@@ -40,7 +40,7 @@ This demonstrates the cconnection of MySQL database and Node.js to create a simp
    
 
    // listen to the server
-   const PORT = 3000
+   const PORT = 3300
    app.listen(PORT, () => {
      console.log(`server is runnig on http://localhost:${PORT}`)
    })
